@@ -1,0 +1,2 @@
+# Proyecto de Machine Learning: Predicción de Compra de Automóvil
+Este proyecto utiliza un modelo de Árbol de Decisión para predecir si una persona compraría un automóvil publicado en un anuncio de una red social. El modelo se entrena utilizando dos características: la edad y el salario estimado de la persona.
